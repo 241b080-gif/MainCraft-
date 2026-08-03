@@ -1,0 +1,1 @@
+w=input("Enter a word: "); print(f"'{w}' is a Palindrome." if w.lower()==w.lower()[::-1] else f"'{w}' is not a Palindrome.")
